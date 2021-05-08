@@ -79,5 +79,3 @@ On the long term, this technique can be combined with audio capture to identify 
 - Some code used to train the classifier in PyTorch was inspired by [the tutorial “How to Train an Image Classifier in PyTorch and use it to Perform Basic Inference on Single Images”](https://towardsdatascience.com/how-to-train-an-image-classifier-in-pytorch-and-use-it-to-perform-basic-inference-on-single-images-99465a1e9bf5)
 - Music on the demo video performed by Pericles Rocha
 - All images, videos, and code (except where listed above) by Pericles Rocha
-
-
