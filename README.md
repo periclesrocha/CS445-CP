@@ -8,4 +8,3 @@ Project index:
 * Project 4 - [Image-Based Lighting](https://github.com/periclesrocha/CS445-CP/tree/main/Project%204%20-%20Image-Based%20Lighting)
 * Project 5 - [Video Stitching and Processing](https://github.com/periclesrocha/CS445-CP/tree/main/Project%205%20-%20Video%20Stitching%20and%20Processing)
 * Final project - [Guitar Chord Recognition](https://github.com/periclesrocha/CS445-CP/tree/main/Project%206%20(Final)%20-%20Guitar%20Chord%20Recognition)
-
