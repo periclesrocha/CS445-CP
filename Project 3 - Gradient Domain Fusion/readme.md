@@ -38,10 +38,12 @@ The reason for the actual failure comes from the fact that the background image 
 My result for the Mixed Gradients algorithm is an enhancement over the previous example: the astronaut image on the second good result of Poisson blending (item 2.b on this document).
 
 When we see one result next to the other, it’s easy to notice how superior the Mixed Gradient is on this combined picture, when compared to Poisson blending. Notice how the background becomes much more natural, even with the track of Perseverance on the planet’s surface becoming visible when Max Gradient is used:
+
 ![](_readmeimages/image6.png "Image 6")</p>
 </p> 
 
 Full results for Mixed gradients: 
+
 ![](_readmeimages/image7.png "Image 7")</p>
 </p> 
 
@@ -55,7 +57,8 @@ For my implementation, I used up to four constraints: bottom pixel (y+1), right 
 
 For each pixel in the source image, I determine a gradient for each channel in the source image (red, green, blue). The gradient with the highest absolute value amongst the three is used in the least squares equation for that pixel. After the equations are determined, the pixels for the output image are computed using scipy.sparse.linalg.lsqr and copied to a new numpy matrix. 
 
-Here are the results: 
+Here are the results:
+
 ![](_readmeimages/image8.png "Image 8")</p>
 </p> 
 
