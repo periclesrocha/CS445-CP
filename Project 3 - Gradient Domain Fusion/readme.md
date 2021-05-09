@@ -18,18 +18,20 @@ This report includes three results for the “Poisson blending” algorithm: a f
 </p>
  
 1. Favorite result: an image of SpaceX’s Spaceship flying in Mars’ horizon. The original object image has a blue background with a chrome rocket which reflects the sky’s colors. It blends nicely with the Mars background when Poisson blending is used. Notice how the Spaceship’s chrome reflection now blended with the colors of the Martian sky. 
+
 ![](_readmeimages/image3.png "Image 3")</p>
 </p> 
 
 
 2. Another good result: an image of an astronaut sitting on the surface of Mars. In the original image, the surface has a different color tone from the background but still, when blended, the astronaut blends nicely with the new background.
+
 ![](_readmeimages/image4.png "Image 4")</p>
 </p> 
 
-3. A failed result: a man standing on the surface of planet Mars. The reason why I consider this a failed result, is that the original object image is changing too much in intensity and color when compared to the original. I note that the skin color and the clothes look much darker. Also, there are some bushes in the right-hand side of the object image which don’t look natural when blended with the background image. Finally, the background image is of a rocky surface, which doesn’t continue fluidly with the blended object image. Those are the reasons why I’m making this a failed result. 
+3. A failed result: a man standing on the surface of planet Mars. The reason why I consider this a failed result, is that the original object image is changing too much in intensity and color when compared to the original. I note that the skin color and the clothes look much darker. Also, there are some bushes in the right-hand side of the object image which don’t look natural when blended with the background image. Finally, the background image is of a rocky surface, which doesn’t continue fluidly with the blended object image. Those are the reasons why I’m making this a failed result.
+
 ![](_readmeimages/image5.png "Image 5")</p>
 </p> 
-
 
 The reason for the actual failure comes from the fact that the background image has a texture which is not continuous, but the viewer expects to see the rock surface on the background. The object image omits this background from the head of the person until their foot – the extension of the object image. Those textures and rocky surface make it hard to blend with an object image which has a background of its own. 
 
