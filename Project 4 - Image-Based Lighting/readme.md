@@ -30,17 +30,6 @@ The following, is a composite image that puts together the three HDR methods tog
 ![Image 5: comparison of the results obtained from all three HDR methods.](_readmeimages/image5.png "Image 5")</p>
 </p>
 
-### Answer these questions:
-1.	For a very bright scene point, will the naive method tend to over-estimate the true brightness, or under-estimate? Why?
-A: It will over-estimate, because it is not a linear operation which distributes intensities across a range. 
-
-2.	Why does the weighting method result in a higher dynamic range than the naive method? 
-A: because a weighted average helps better distribute intensities across the range of the image. 
-
-3.	Why does the calibration method result in a higher dynamic range than the weighting method? 
-
-4.	Why does the calibration method result in higher consistency, compared to the weighting method? 
-
 ## Panoramic transformations
 
 Here are the results obtained for the panoramic transformations of the sphere photography. 
