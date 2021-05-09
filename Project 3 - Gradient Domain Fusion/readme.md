@@ -64,7 +64,7 @@ Here are the results:
 ![](_readmeimages/image8.png "Image 8")</p>
 </p> 
 
-Appendix: Acknowledgments / Attribution
+## Appendix: Acknowledgments / Attribution
 
 This project used the following images: 
 - Mars picture with the Curiosity Rover: NASA (https://mars.nasa.gov/images/pia16239_c-full.jpg)
