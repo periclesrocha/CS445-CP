@@ -1,6 +1,6 @@
 ### CS 445 – Project 5 report
 
-# Project 5: Image Based Lighting
+# Project 5: Video Stitching and Processing
 
 ## Stitch two key frames
 
