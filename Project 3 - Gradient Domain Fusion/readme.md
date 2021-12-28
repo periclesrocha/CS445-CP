@@ -1,6 +1,4 @@
-### CS 445 – Project 3 report
-
-# Project 3: Gradient Domain Fusion
+# Gradient Domain Fusion
 
 ## Toy problem
 The “Toy problem” exercise reconstructs an image from its gradient values, plus one pixel intensity. 
