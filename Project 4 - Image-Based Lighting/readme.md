@@ -1,6 +1,4 @@
-### CS 445 – Project 4 report
-
-# Project 4: Image Based Lighting
+# Image Based Lighting
 
 ## Recovering HDR maps
 
