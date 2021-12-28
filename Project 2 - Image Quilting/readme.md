@@ -1,6 +1,4 @@
-### CS 445 – Project 2 report
-
-# Project 2: Image Quilting
+# Image Quilting
 
 ## Introduction
 I used three images as sample textures for this project:
