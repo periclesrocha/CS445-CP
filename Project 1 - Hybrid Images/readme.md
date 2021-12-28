@@ -1,5 +1,3 @@
-### CS 445 – Project 1 report
-
 # Hybrid Images
 
 ## Hybrid image main result
